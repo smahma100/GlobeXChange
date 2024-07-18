@@ -1,0 +1,5 @@
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+
+resilience4j.retry.instances.sample-api.maxAttempts=5 #NEW
+#resilience4j.retry.instances.sample-api.maxRetryAttempts=5 #OLD
