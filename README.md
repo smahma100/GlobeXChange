@@ -1,4 +1,4 @@
-# Currency Exchange Conversion System
+# GlobeXChange 
 
 A comprehensive microservices-based system for currency exchange and conversion, utilizing Spring Boot and Spring Cloud technologies. This project includes API Gateway, Eureka for service discovery, and Resilience4j for fault tolerance, with integrated metrics and tracing using Micrometer and OpenTelemetry. The system also includes JDBC MySQL for database interactions.
 
